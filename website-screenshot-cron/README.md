@@ -1,11 +1,9 @@
 # Website Screenshot Tool using CDK
 
-This is a project showcasing AWS CDK using Typescript to deploy a website screenshot tool infrastructure on AWS. A write up of this project can be found on my personal blog here. (to do, link to project url)
+This is a project showcasing AWS CDK using Typescript to deploy a website screenshot tool infrastructure on AWS. A write up of this project can be found on my personal blog [here.](vincentsg.ca/2020/website_screenshot_cron/)
 
 ## Infrastructure Diagram
 ![Website Screenshot Diagram]( image/website-screenshot-diagram-v1.png )
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
 

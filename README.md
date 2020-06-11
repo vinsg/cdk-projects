@@ -4,4 +4,4 @@ This is the central repository holding all of my CDK projects. You are welcome t
 
 | Project name            | Location                        | Blog post                   | Language               | Status      |
 | :---------------------- | :------------------------------ | :-------------------------- | :--------------------- | ----------- |
-| Website screenshot tool | [link](website-screenshot-cron) | (to do: link to blog posts) | Typescript, Javascript | In Progress |
+| Website screenshot tool | [link](website-screenshot-cron) | [blog post](vincentsg.ca/2020/website_screenshot_cron/) | Typescript, Javascript | In Progress |
